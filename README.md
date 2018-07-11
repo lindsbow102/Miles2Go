@@ -1,1 +1,3 @@
 # miles-to-go
+
+Miles To Go is an app based off of the popular "Run Less, Run Faster" marathon training plan.  Users will be asked to use a current race time, which will allow this program to calculate their optimal training paces.  They will then be able to view training plan before their next goal race, using track repeats, tempo runs and long runs.  It will be separated into 16 weeks, with different workouts each time.
