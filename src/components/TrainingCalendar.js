@@ -1,24 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
-// import RaceWeek from '../components/RaceWeek';
-// import Week2 from '../components/Week2';
-// import Week3 from '../components/Week3';
-// import Week4 from '../components/Week4';
-// import Week5 from '../components/Week5';
-// import Week6 from '../components/Week6';
-// import Week7 from '../components/Week7';
-// import Week8 from '../components/Week8';
-// import Week9 from '../components/Week9';
-// import Week10 from '../components/Week10';
-// import Week11 from '../components/Week11';
-// import Week12 from '../components/Week12';
-// import Week13 from '../components/Week13';
-// import Week14 from '../components/Week14';
-// import Week15 from '../components/Week15';
-//import Week16 from '../components/Week16';
 
 export const TrainingCalendar = () => (
   <div>
+    <Link to='/'>Home</Link>
     <Link to='/week16'>
       <button>Week 16: {}</button>
     </Link>

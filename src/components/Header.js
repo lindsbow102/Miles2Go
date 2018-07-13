@@ -2,7 +2,7 @@ import React from "react";
 
 export const Header = () => (
   <div>
-    <h1>This is my header</h1>
+    <h1>Miles2Go</h1>
   </div>
 );
 
