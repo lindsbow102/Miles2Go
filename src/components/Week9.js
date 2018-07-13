@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-export const Week9 = () => (
+const Week9 = () => (
     <div>
         <h1>Week starting on {}</h1>
         <h3>Track Repeats: 12 x 400 @ {} RI: 90 sec</h3>
@@ -10,3 +10,5 @@ export const Week9 = () => (
         <button>Return to Training Calendar</button>
     </div>
 );
+
+export default Week9;

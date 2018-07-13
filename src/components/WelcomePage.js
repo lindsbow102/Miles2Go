@@ -5,3 +5,5 @@ export const WelcomePage = () => (
         <h1>This is the welcome page</h1>        
     </div>
 );
+
+export default WelcomePage;

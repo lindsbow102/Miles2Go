@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Week16 = () => (
+const Week16 = () => (
     <div>
         <h1>Week starting on {}</h1>
         <h3>Track Repeats: 3 x 1600 @ {} -- RI: 400 m</h3>
@@ -9,3 +9,5 @@ export const Week16 = () => (
         <button>Return to Training Calendar</button>
     </div>
 );
+
+export default Week16;
